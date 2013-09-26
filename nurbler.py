@@ -1,7 +1,7 @@
  # -*- coding: utf8 -*-
 import nltk
 
-
+# http://www.smbc-comics.com/?id=2779
 
 def nurbleize(sentence):
      allowed=["NNP","NNS","NN"]
